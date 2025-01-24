@@ -51,7 +51,9 @@ return {
 				"prismals",
 				"pyright",
 				"gopls",
+				"astro",
 			},
+			automatic_installation = true,
 		})
 
 		mason_tool_installer.setup({
